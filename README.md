@@ -1,2 +1,2 @@
-# Open-AI-Balancer-Trained-
-Python Open AI Balancer (Trained)
+# Open-AI-CartPole-Trained-
+Python Open AI CartPole (Trained)
